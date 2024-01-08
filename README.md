@@ -1,4 +1,4 @@
-#Sports Person Face Recognition model
+Sports Person Face Recognition model
 
 A Machine Learning model to identify the faces of Virat Kohli, Roger Federer, Serena Williams, Maria Sharapova and Lionel Messi
 
